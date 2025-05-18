@@ -26,8 +26,7 @@ A continuación se presenta un ejemplo de ejecución donde el usuario interactú
 ![image](https://github.com/user-attachments/assets/cfd0927c-b005-489a-a707-28cf149cb6fd)
 
 
-# Instrucciones para ejecutar el programa
-# Archivos necesarios
+# Instrucciones para ejecutar el programa y archivos necesarios
 
 1. Abrir el entorno de desarrollo Java preferido, como Visual Studio Code, IntelliJ IDEA o NetBeans.
 2. Asegurarse de tener todos los archivos necesarios en el mismo proyecto:
