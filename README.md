@@ -23,7 +23,7 @@ A continuación se presenta un ejemplo de ejecución donde el usuario interactú
 ![image](https://github.com/user-attachments/assets/c233417d-2496-4031-ad9e-6aa7f2cc2616)
 ![image](https://github.com/user-attachments/assets/de802b09-00e9-446c-8563-a90854a969af)
 ![image](https://github.com/user-attachments/assets/c567a943-beb9-43f0-8342-efa52808ee50)
-![image](https://github.com/user-attachments/assets/3a114670-39eb-4433-ac7a-e01636b81d00)
+![image](https://github.com/user-attachments/assets/8ff35edd-83ba-4c6b-8d98-8659b691ab38)
 
 
 # Instrucciones para ejecutar el programa y archivos necesarios
