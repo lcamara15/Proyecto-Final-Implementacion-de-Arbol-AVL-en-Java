@@ -16,7 +16,7 @@ Además, el método 'printTree(Node raiz)' ha sido implementado como requisito o
 
 ---
 
-# Capturas de entrada (números insertados)
+# Capturas de pantalla
 
 A continuación se presenta un ejemplo de ejecución donde el usuario interactúa con el árbol:
 
@@ -32,10 +32,10 @@ A continuación se presenta un ejemplo de ejecución donde el usuario interactú
 1. Abrir el entorno de desarrollo Java preferido, como Visual Studio Code, IntelliJ IDEA o NetBeans.
 2. Asegurarse de tener todos los archivos necesarios en el mismo proyecto:
 
-   # ProgramaAVL.java
-   # ArbolAVL.java
-   # NodoAVL.java
-   # VistaAVL.java 
+   - ProgramaAVL.java
+   - ArbolAVL.java
+   - NodoAVL.java
+   - VistaAVL.java 
 
 3. Compilar el proyecto. Esto puede hacerse desde el entorno o con el comando javac *.java si se está utilizando la consola.
 4. Ejecutar la clase principal ProgramaAVL, que iniciará el menú interactivo en consola.
